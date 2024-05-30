@@ -1,0 +1,51 @@
+.img{
+      height: 5000px;
+      background-image: url("./paper.jpg");
+      background-position: center;
+      background-size: cover;
+      background-attachment: fixed;
+      padding-top: 50px;
+      padding-right: 70px;
+      padding-left: 70px;
+}
+.header{
+  padding: 25px;
+  background-color: #FDD48A;
+}
+.block1{
+  height: 200px;
+  background-color: #A65600;
+  border-radius: 50px;
+  border: 2px solid black;
+  padding-top: 55px;
+  padding-left: 450px;
+  font-family: "Danfo", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+  "ELSH" 0;
+  font-size: 80px;
+}
+.block2{
+  background-color: #A65600;
+  border-radius: 50px;
+  border: 2px solid black;
+}
+.h{
+  padding-top: 0px;
+  padding-left:500px;
+  font-size: 20px;
+  font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.hh{
+  font-size: 20px;
+  font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  padding-left: 25px;
+}
