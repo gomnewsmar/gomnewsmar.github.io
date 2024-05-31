@@ -1,19 +1,21 @@
 .img{
-      height: 5000px;
-      background-image: url("./paper.jpg");
-      background-position: center;
-      background-size: cover;
-      background-attachment: fixed;
-      padding-top: 50px;
-      padding-right: 70px;
-      padding-left: 70px;
+  background-image: url("./paper.jpg");
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  padding-top: 50px;
+  padding-right: 70px;
+  padding-left: 70px;
+  padding-bottom: 50px;
 }
 .header{
-  padding: 25px;
+  padding: 5px;
   background-color: #FDD48A;
+  background-position: center;
+  background-size: cover;
 }
 .block1{
-  height: 200px;
+  height: 170px;
   background-color: #A65600;
   border-radius: 50px;
   border: 2px solid black;
@@ -25,7 +27,7 @@
   font-style: normal;
   font-variation-settings:
   "ELSH" 0;
-  font-size: 80px;
+  font-size: 70px;
 }
 .block2{
   background-color: #A65600;
@@ -48,4 +50,51 @@
   font-weight: <weight>;
   font-style: normal;
   padding-left: 25px;
+}
+.footer{
+  padding: 5px;
+  background-color: #FDD48A;
+  background-position: center;
+  background-size: cover;
+}
+.block3{
+  height: 170px;
+  background-color: #A65600;
+  border-radius: 50px;
+  border: 2px solid black;
+  padding-top: 55px;
+  padding-left: 50px;
+  font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-size: 20px;
+}
+a {
+  outline: none;
+  text-decoration: none;
+  padding: 2px 1px 0;
+}
+
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: #825021;
+}
+
+a:focus {
+  border-bottom: 1px solid;
+  background: #b06b2a;
+}
+
+a:hover {
+  border-bottom: 1px solid;
+  background: #b06b2a;
+}
+
+a:active {
+  background: #825021;
+  color: black;
 }
