@@ -98,10 +98,17 @@ a:active {
   background: #825021;
   color: black;
 }
-.sel {
-  background-color:#b06b2a;
+.nav li {
+  position: relative;
 }
-.sel:hover {
-  border-bottom: 1px solid;
-  background:  #825021;
+
+.sub-menu {
+  display: none;
+  position: absolute;
+  left: 0; /*Данное указание не обязательно*/
+}
+
+.nav li:hover > .sub-menu {
+  display: block;
+  width: max-content;
 }
