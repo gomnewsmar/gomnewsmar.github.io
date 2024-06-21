@@ -98,3 +98,10 @@ a:active {
   background: #825021;
   color: black;
 }
+.sel {
+  background-color:#b06b2a;
+}
+.sel:hover {
+  border-bottom: 1px solid;
+  background:  #825021;
+}
