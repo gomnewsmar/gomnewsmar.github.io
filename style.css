@@ -21,12 +21,10 @@
   border: 2px solid black;
   padding-top: 55px;
   padding-left: 450px;
-  font-family: "Danfo", serif;
+  font-family: "Oswald", sans-serif;
   font-optical-sizing: auto;
-  font-weight: 400;
+  font-weight: <weight>;
   font-style: normal;
-  font-variation-settings:
-  "ELSH" 0;
   font-size: 70px;
 }
 .block2{
