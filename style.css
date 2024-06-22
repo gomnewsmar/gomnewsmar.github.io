@@ -21,7 +21,7 @@
   border: 2px solid black;
   padding-top: 55px;
   padding-left: 450px;
-  font-family: "Oswald", sans-serif;
+  font-family: "Playfair Display", serif;
   font-optical-sizing: auto;
   font-weight: <weight>;
   font-style: normal;
@@ -31,21 +31,22 @@
   background-color: #A65600;
   border-radius: 50px;
   border: 2px solid black;
+  font-family: "Pangolin", cursive;
+  font-weight: 400;
+  font-style: normal;
 }
 .h{
   padding-top: 0px;
   padding-left:500px;
   font-size: 20px;
-  font-family: "Roboto Condensed", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-family: "Pangolin", cursive;
+  font-weight: 400;
   font-style: normal;
 }
 .hh{
   font-size: 20px;
-  font-family: "Roboto Condensed", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-family: "Pangolin", cursive;
+  font-weight: 400;
   font-style: normal;
   padding-left: 25px;
 }
@@ -62,9 +63,8 @@
   border: 2px solid black;
   padding-top: 55px;
   padding-left: 50px;
-  font-family: "Roboto Condensed", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-family: "Pangolin", cursive;
+  font-weight: 400;
   font-style: normal;
   font-size: 20px;
 }
